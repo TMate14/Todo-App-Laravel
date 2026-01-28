@@ -21,6 +21,9 @@ This project contains an implementation of a **To-do application**.
 1) Open a terminal and run - *npm run dev*
 1) Open another terminal and run - *php artisan serve*
 
+### To run the application using docker, without any laravel specific installation
+- Follow the steps from the [README-DOCKER.md](README-DOCKER.md) file
+
 #### Resources I used to learn and develop:
 1) Official Laravel documentation (https://laravel.com/docs/12.x)
 2) Youtube
